@@ -1,5 +1,9 @@
 ## The Fearful Warnings: False Assurance, Apostasy, and the Church's Lost Anathema
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+---
+
 ## Contents
 
 ### I. [Introduction: The Scandal of Easy-Believism](#i-introduction-the-scandal-of-easy-believism)
@@ -1973,3 +1977,18 @@ The warnings are real. The stakes are infinite. The gospel is true. And Christ i
 **Target Audience:** Pastors • Church Leaders • Seminary Students • Biblical Counselors • Serious Disciples • Those Examining Their Faith
 
 ---
+
+## License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+---
+
+© 2025 VeritasVox | Licensed under CC BY 4.0
